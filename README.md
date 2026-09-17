@@ -135,9 +135,9 @@ For automatic server restarts, run `npm run dev` from `server/`. Conversation ex
 
 ## Inspiration
 
-ReplyPilot was inspired by Microsoft's learning materials on AI agents, human oversight, and responsible agent interaction.
+ReplyPilot was inspired by Microsoft's learning materials on AI agents, human oversight, and the responsible use of AI agents.
 
-While exploring these concepts through the Microsoft Learn Student Ambassadors program, I wanted to apply them to a small real-world workflow: helping users draft replies while keeping the final decision and sending action in human hands.
+While exploring these concepts through the Microsoft Learn Student Ambassadors program, I wanted to apply them to a small real-world workflow: helping users draft replies while keeping the final decision and sending action under human control.
 
 Explore [Microsoft Learn's AI agent guidance](https://learn.microsoft.com/agents/adoption-maturity-model/?wt.mc_id=studentamb_644438).
 
